@@ -11,8 +11,6 @@
 import random
 
 
-
-
 # box class
 class Box:
     def __init__(self):
@@ -43,7 +41,6 @@ def main():
     box3 = Box()
 
     
-
     #   outside loop loops twice for tests
     #   once nonswitching, once switching
     for ii in range(0, 2):
@@ -99,10 +96,7 @@ def main():
             if correctBox == True:
                 correctChoices = correctChoices + 1
         
-            
-
-
-            
+                
         
         winPercent = getWinPercent(correctChoices, numberOfTests)
         printResults(numberOfTests, winPercent)
