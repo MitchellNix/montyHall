@@ -1,4 +1,4 @@
-The purpose of this program is to reiterate basic programing concepts recently learned in python
+The purpose of this program is to reiterate the programing concepts learned in python
 through solving the monty hall problem.
 
 If an item is randomly generated inside of any given box
